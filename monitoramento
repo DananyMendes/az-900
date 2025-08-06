@@ -1,0 +1,38 @@
+# 🧪 Resumo do Lab - Plataforma DIO
+
+Este repositório foi criado como parte do desafio proposto pela DIO (Digital Innovation One), com o objetivo de reforçar os aprendizados obtidos durante o laboratório prático. O conteúdo aqui documentado mostra minha compreensão sobre os conceitos explorados e como eles se conectam ao universo profissional de dados e cloud computing.
+
+---
+
+## 📚 Aprendizados Técnicos
+
+Durante a execução do lab, consolidei diversos conceitos fundamentais relacionados a computação em nuvem, com foco no ecossistema Microsoft Azure:
+
+### ☁️ Infraestrutura em Nuvem (IaaS, PaaS, SaaS)
+- Diferenças entre **modelos de serviço** e **modelos de implantação**.
+- Vantagens do uso da **nuvem pública**, especialmente em escalabilidade, agilidade e redução de custos operacionais.
+
+### 🔐 Segurança e Identidade
+- **Microsoft Entra ID (antigo Azure AD)** como base da identidade corporativa.
+- Aplicação de **MFA (autenticação multifator)**, **SSO (logon único)** e **acesso condicional**.
+- Diferenças entre **identidade interna, externa (B2B/B2C)** e seus mecanismos de controle de acesso.
+
+### 📂 Armazenamento e Integrações
+- Utilização de ferramentas como **AzCopy**, **Azure Storage Explorer** e **Azure File Sync** para upload, download e sincronização de dados.
+- Entendimento das camadas de **redundância de armazenamento** (LRS, GRS, ZRS).
+- Aplicações práticas de compartilhamento de dados com segurança e controle de versionamento.
+
+### 🧑‍💻 Monitoramento e Governança
+- Uso de **Azure Policy** para manter conformidade organizacional e bloquear tipos de recurso.
+- Aplicação de **RBAC** para controle de acesso baseado em funções e segregação de responsabilidades.
+- Ferramentas como **Azure Monitor**, **Security Center** e **Azure Advisor** para monitorar, recomendar e proteger ambientes.
+
+---
+
+## 🌍 Relevância Profissional
+
+Esse laboratório reforçou minha preparação para ambientes de **engenharia e arquitetura de dados em cloud**, áreas nas quais já atuo e busco expandir meu domínio, especialmente visando oportunidades no mercado canadense.
+
+Com esse aprendizado:
+
+- Estou mais preparado para **projetar pipelines de dados seguros e escaláveis**
