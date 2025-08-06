@@ -1,0 +1,50 @@
+# Resumo do Lab – DIO
+
+Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do laboratório da DIO, voltado para a prática em computação em nuvem com Microsoft Azure e boas práticas de DevOps/DataOps.
+
+---
+
+## 🚀 O que eu aprendi neste laboratório:
+
+### ☁️ Fundamentos da Nuvem com Azure
+- Entendimento do modelo de computação em nuvem e seus principais benefícios: escalabilidade, elasticidade, alta disponibilidade e modelo de pagamento sob demanda.
+- Diferença entre os modelos IaaS, PaaS e SaaS, e como o Azure oferece soluções para todos esses níveis.
+- Como o Azure organiza seus recursos por meio de **grupos de recursos**, **assinaturas**, e **regiões geográficas**.
+
+### 🛡️ Identidade, Acesso e Segurança
+- Compreensão do funcionamento do **Azure Active Directory (Entra ID)** e a importância do controle de acesso baseado em função (**RBAC**).
+- Implementação de **autenticação multifator (MFA)** e **logon único (SSO)** para proteger o acesso aos recursos.
+- Diferença entre **identidades internas e externas** e como colaboramos com usuários fora da organização com segurança.
+
+### 🔐 Acesso Condicional
+- Aplicação de políticas de **acesso condicional**, usando sinais de identidade (localização, dispositivo, risco, etc.) para reforçar a segurança sem impactar a produtividade.
+
+### 💾 Armazenamento e Migração
+- Tipos de redundância no armazenamento do Azure (LRS, ZRS, GRS, GZRS).
+- Migração de dados usando:
+  - **Azure Migrate** (ambiente local → nuvem).
+  - **Data Box** (grandes volumes offline).
+  - Ferramentas como **AzCopy**, **Azure File Sync**, e **Storage Explorer**.
+
+### 📦 Modelagem de Aplicações e Escalabilidade
+- Diferença entre **escala vertical e horizontal** e sua aplicação em máquinas virtuais e aplicações web.
+- Introdução ao uso de **App Services**, **Function Apps** e **Containers no Azure**.
+
+### 📊 Monitoramento e Governança
+- Ferramentas como **Azure Monitor**, **Azure Policy**, **Security Center** e **Azure Advisor** para avaliar desempenho, conformidade e segurança.
+
+---
+
+## ✅ Conclusão
+
+Esse laboratório me proporcionou uma visão prática e aprofundada sobre a arquitetura de soluções na nuvem utilizando a plataforma Microsoft Azure. Com os conhecimentos adquiridos, consigo agora:
+
+- Criar e gerenciar recursos no Azure com maior confiança.
+- Proteger identidades e dados com boas práticas de segurança.
+- Planejar a migração de cargas de trabalho para a nuvem.
+- Atuar estrategicamente rumo ao objetivo de ser um arquiteto de soluções em nuvem.
+
+---
+
+📌 Repositório criado como parte do desafio da [DIO - Digital Innovation One](https://dio.me/)
+
