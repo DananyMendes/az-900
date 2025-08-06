@@ -1,0 +1,57 @@
+# 🧠 Resumo do Lab – Trilha de Aprendizado em Cloud Computing (Microsoft Azure) | DIO
+
+Este repositório contém o resumo das principais lições que aprendi durante a realização do laboratório da DIO voltado ao ecossistema Microsoft Azure. Com foco em fundamentos de nuvem, identidade, segurança e governança, este conteúdo marca um passo importante no meu plano de carreira rumo à Arquitetura de Soluções em Cloud.
+
+---
+
+## 📚 O que aprendi com este Lab:
+
+### ☁️ **Fundamentos de Computação em Nuvem**
+- Entendimento claro dos **modelos de serviços** (IaaS, PaaS e SaaS) e seus casos de uso.
+- Diferença entre **modelos de implantação** (Nuvem Pública, Privada e Híbrida).
+- Compreensão sobre **regiões, zonas de disponibilidade** e **alta disponibilidade**.
+
+### 🛠️ **Gerenciamento de Recursos no Azure**
+- Criação de **grupos de recursos**, **recursos individuais** e como organizá-los de forma lógica e estratégica.
+- Uso do **Azure Portal**, **Azure CLI** e **Azure Resource Manager (ARM)**.
+- Importância da **tagueamento de recursos** para governança e controle de custos.
+
+### 🔐 **Identidade, Acesso e Segurança**
+- Conceitos e uso prático de **Azure Active Directory (Microsoft Entra ID)**.
+- Diferenças entre **usuários internos e identidades externas (B2B e B2C)**.
+- Aplicação de **autenticação multifator (MFA)**, **logon único (SSO)** e **autenticação sem senha**.
+- Entendimento e configuração de **acesso condicional baseado em sinais de risco**, como localização, dispositivo e função.
+
+### 💾 **Armazenamento e Movimentação de Dados**
+- Diferença entre tipos de **redundância**: LRS, ZRS, GRS, GZRS.
+- Ferramentas para movimentação de arquivos:
+  - **AzCopy** (linha de comando)
+  - **Azure File Sync** (sincronização bidirecional)
+  - **Azure Storage Explorer** (interface gráfica)
+- Processos de **migração de dados** com **Azure Migrate** e **Data Box**.
+
+### 📊 **Governança e Monitoramento**
+- Introdução às ferramentas:
+  - **Azure Policy** para padronização e conformidade.
+  - **RBAC** (Controle de Acesso Baseado em Função).
+  - **Azure Monitor**, **Log Analytics** e **Azure Advisor** para rastrear performance, alertas e recomendações de melhorias.
+- Princípios de **finOps e controle de custo com Azure Cost Management**.
+
+---
+
+## 💡 Conclusão
+
+Este laboratório reforçou minha base sobre os principais serviços e boas práticas no Microsoft Azure. Consolidou os conhecimentos necessários para:
+- Iniciar projetos reais na nuvem com segurança e escalabilidade.
+- Aplicar as melhores práticas de identidade, acesso e proteção de dados.
+- Evoluir tecnicamente rumo às certificações de nível intermediário e avançado como **AZ-104 (Administrator)** e **AZ-305 (Architect)**.
+
+---
+
+**📍 Perfil Profissional:**  
+Data Engineer com certificações oficiais em **Databricks**, **Azure (AZ-900)** e **Scrum Foundations**, mirando uma transição estratégica para Arquitetura de Dados e Soluções Cloud, com foco no mercado do Canadá.
+
+---
+
+📎 Repositório criado como parte do desafio da [DIO - Digital Innovation One](https://dio.me/)
+
