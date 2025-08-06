@@ -1,0 +1,56 @@
+# 📘 Desafio DIO: Resumo do Lab
+
+Este repositório foi criado como parte da entrega do desafio da plataforma [DIO - Digital Innovation One](https://dio.me). Aqui, compartilho um resumo do que aprendi durante o desenvolvimento do laboratório proposto, focando nos principais conceitos explorados e sua aplicação prática.
+
+---
+
+## 🧠 O que eu aprendi no Lab
+
+Durante o desenvolvimento do laboratório, aprofundei meus conhecimentos em:
+
+### ☁️ Computação em Nuvem com Azure
+- Diferença entre **IaaS**, **PaaS** e **SaaS** com exemplos práticos.
+- Vantagens do uso da **nuvem pública** em relação a ambientes on-premise.
+- Conceitos de **alta disponibilidade**, **resiliência** e **escalabilidade**.
+
+### 🔐 Segurança e Identidade
+- Utilização do **Microsoft Entra ID** para gerenciamento de usuários, autenticação e permissões.
+- Implementação de **MFA**, **SSO** e **Acesso Condicional** para reforçar a segurança.
+- Diferença entre **identidade interna e externa** no Azure (B2B, B2C).
+
+### 💾 Armazenamento e Sincronização
+- Tipos de redundância (LRS, ZRS, GRS, GZRS) e cenários de uso.
+- Ferramentas como **AzCopy**, **Azure Storage Explorer** e **Azure File Sync** para movimentação e sincronização de arquivos.
+
+### 🛡️ Governança e Compliance
+- Aplicação de **Azure Policy** para padronizar e controlar a criação de recursos.
+- Uso do **RBAC** para restringir acessos baseados em funções específicas.
+- Monitoramento e boas práticas com **Azure Monitor** e **Azure Advisor**.
+
+---
+
+## 📈 Como este lab impacta minha carreira
+
+Esse laboratório fortaleceu minha base técnica no Azure e minha visão estratégica sobre **segurança, identidade e gestão de recursos em ambientes corporativos**, fundamentais para arquitetar soluções escaláveis e seguras na nuvem.
+
+💡 Com esse conhecimento, estou mais preparado para:
+
+- Atuar em projetos cloud-native com foco em dados e segurança.
+- Evoluir para certificações como **AZ-104 (Administrador)** e **AZ-305 (Arquiteto de Soluções)**.
+- Contribuir em decisões arquiteturais e estratégias de migração para cloud.
+
+---
+
+## 🧑‍💼 Sobre Mim
+
+Sou **Danilo Manente Mendes**, engenheiro de dados com certificações:
+- **Databricks Data Engineer Associate**
+- **Microsoft Azure Fundamentals (AZ-900)**
+- **Scrum Foundation**
+
+Buscando evolução contínua para atuar como **Arquiteto de Soluções em Cloud & Dados**, com foco no mercado internacional, especialmente **o Canadá**.
+
+---
+
+📎 Repositório criado para a entrega oficial do desafio DIO —  
+🔗 Link: [https://github.com/seu-usuario/resumo-do-lab](https://github.com/seu-usuario/resumo-do-lab)
